@@ -1,4 +1,8 @@
-//poj2503
+/*poj2503
+*.c文件,编码gbk
+*
+*状态：尝试多次未果
+*/
 //#include<iostream>
 #include<string.h>
 #include<stdio.h>
@@ -11,8 +15,7 @@ const int mmax = 100002;
 //int id[mmax];
 char hash1[100000002][12];
 bool hashbook[100000002];
-//26进制数
-
+//26����ĸ
 ull hashx(char* p)
 {
 	int len = strlen(p);

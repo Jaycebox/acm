@@ -55,7 +55,7 @@ int main()
 			s[i] = 1;
 		}
 		int head = 0;
-		over = 0;
+		//over = 0;
 		for (int i = 1; i <= n; i++)
 		{
 			int a, b, c, d;
